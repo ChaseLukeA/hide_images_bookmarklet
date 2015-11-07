@@ -1,4 +1,4 @@
-# Hide Images Bookmarklet
+# NICE JOB BRIAN! :) Hide Images Bookmarklet
 
 Hides images on a web page.
 
